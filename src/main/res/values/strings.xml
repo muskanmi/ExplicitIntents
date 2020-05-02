@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitIntents</string>
+    <string name="please_enter_your_first_name">please enter your first name</string>
+    <string name="activity_2">Activity2</string>
+    <string name="activity_3">Activity3</string>
+    <string name="data_from_activity3_will_be_displayed_here">data from activity3 will be displayed here</string>
+</resources>
